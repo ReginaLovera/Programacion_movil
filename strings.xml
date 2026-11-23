@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Papa - Regina Lovera Jerónimo</string>
+    <string name="titulo_con_autor">Armar figura - %1$s</string>
+    <string name="selecciontexto">Selecciona una pieza</string>
+    <string name="opojos">Ojos</string>
+    <string name="opnariz">Nariz</string>
+    <string name="opcabello">Cabello</string>
+    <string name="opboca">Boca</string>
+    <string name="oppies">Pies</string>
+    <string name="btn_posiciones">Evaluar posiciones</string>
+</resources>
